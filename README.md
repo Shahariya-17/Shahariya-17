@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Rakibul Islam
-#### Web developer
+# Hi there 👋, I'm Rakibul Islam
+### Web developer
 ![Web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a passionate Web Developer with a strong focus on creating responsive, user-friendly, and modern web applications. Skilled in HTML, CSS, Tailwind CSS, JavaScript, and React, and always eager to learn new technologies. Currently exploring Next.js and backend development to become a full-stack developer. I love solving problems, building real-world projects, and continuously improving my coding skills.
