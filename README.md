@@ -2,11 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayesmahmud000&label=Profile%20views&color=0e75b6&style=flat" alt="kayesmahmud000" /> </p>
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/kayes-mah" target="_blank">
+  <a href="https://www.linkedin.com/in/shahariyar-rakib-b21682355/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 
-  <a href="https://www.facebook.com/mah.mud.473648" target="_blank">
+  <a href="https://www.facebook.com/shahariyar.rakib.2024/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
 
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
   </a>
 
-  <a href="https://www.instagram.com/your_instagram_username" target="_blank">
+  <a href="https://www.instagram.com/shahariyar_rakib_369/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 
-  <a href="https://wa.me/8801729527377" target="_blank">
+  <a href="https://wa.me/8801709801263" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
 
@@ -83,7 +83,7 @@ I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , dep
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
 
-  <a href="https://wa.me/8801729527377" target="_blank">
+  <a href="https://wa.me/8801709801263" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
 
