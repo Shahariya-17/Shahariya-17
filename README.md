@@ -79,7 +79,7 @@ I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , dep
   <img src="https://img.icons8.com/ios-filled/50/000000/x.png" width="40" height="40" alt="x logo" />
 </a>
 
-  <a href="https://discord.gg/gZhVeXGP" target="_blank">
+  <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
 
