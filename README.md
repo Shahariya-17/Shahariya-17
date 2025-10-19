@@ -84,12 +84,12 @@ I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , dep
   </a>
 
   <a href="https://wa.me/8801709801263" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="42" alt="whatsapp logo" />
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/shahariyar_rakib_369/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="42" alt="instagram logo" />
   </a>
 </div>
 
