@@ -37,7 +37,7 @@
 ## 🧑‍🚀 **About Me**
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="340px" alt="tech stack gif" />
+  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350px" alt="tech stack gif" />
 </div>
 
 - 🌍 I'm from **Bangladesh**  
@@ -52,7 +52,7 @@
 ## 🛠️ **Languages & Tools**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,firebase,mongodb,mysql,nextjs,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,firebase,mongodb,mysql,nextjs,git,github,vscode" />
 </div>
 
 ---
@@ -60,7 +60,7 @@
 ## 🧠 **My Tech Stack Animation**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="480px" />
+  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="500px" />
 </p>
 
 ---
@@ -68,10 +68,11 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img width="46%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shahariya-17&theme=radical&border_radius=10" alt="streak stats"/>
-  <img width="46%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Shahariya-17&show_icons=true&theme=radical&border_radius=10&rank_icon=github" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shahariya-17&theme=radical&border_radius=10" alt="streak stats"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahariya-17&layout=compact&theme=radical&border_radius=10" height="190" alt="languages graph" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Shahariya-17&show_icons=true&theme=radical&border_radius=10&rank_icon=github" alt="readme stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahariya-17&layout=compact&theme=radical&border_radius=10" height="180" alt="languages graph" />
 </div>
 
 ---
@@ -79,23 +80,15 @@
 ## 🐍 **Contribution Snake**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahariya-17/Shahariya-17/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahariya-17/Shahariya-17/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Shahariya-17/Shahariya-17/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
-## ✨ **Dynamic Quote & Footer Animation**
+## 💫 **"Code. Create. Inspire."**
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=2000&color=FF61F6&center=true&vCenter=true&width=600&lines=Code.+Create.+Inspire.;Thank+You+for+Visiting+💖;Let's+Build+Something+Great+Together!+🚀" alt="animated message" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=120&section=footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=2000&color=FF61F6&center=true&vCenter=true&width=500&lines=Thank+You+for+Visiting+💖;Let's+Build+Something+Great+Together!+🚀" alt="thanks" />
 </p>
