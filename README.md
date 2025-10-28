@@ -1,152 +1,101 @@
-<img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
+<!-- 🌟 HEADER BANNER -->
+<img width="100%" src="https://i.ibb.co/3c1q1XR/modern-banner.gif" alt="cover" />
+
+<!-- 🔢 Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shahariya-17&label=Profile%20views&color=0e75b6&style=flat" alt="Shahariya-17" />
+  <img src="https://komarev.com/ghpvc/?username=Shahariya-17&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Shahariya-17" />
 </p>
 
+<!-- 🧑‍💻 INTRO -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Shahariyar+Rakib;A+Passionate+Web+Developer+From+Bangladesh!;Welcome+to+My+Profile+💻" alt="Typing SVG" />
+</h1>
+
+<!-- 🌐 SOCIAL LINKS -->
 <div align="center">
 
   <a href="https://www.linkedin.com/in/shahariyar-rakib-b21682355/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
-
   <a href="https://www.facebook.com/shahariyar.rakib.2024/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
   </a>
-
-  <a href="@Shahariyar50732" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
-  </a>
-
   <a href="https://www.instagram.com/shahariyar_rakib_369/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
   </a>
-
-  <a href="https://www.threads.net/@your_threads_username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="threads logo" />
-  </a>
-
-  <a href="https://discord.gg/gZhVeXGP" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  </a>
-
   <a href="https://wa.me/8801709801263" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
   </a>
-
-  <a href="mailto:shahariyarrakib780@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+  <a href="mailto:shahariyarrakib780@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
 
 </div>
 
-###
+---
 
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+everyone+!;I'm+Rakibul+Islam.;I'm+a+Web+Developer;Let's+work+together+!&color=ffffff&size=35&center=false&vCenter=true&width=500&font=source+code+pro" />
-  </a>
+## 🧑‍🚀 **About Me**
+
+<div align="right">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="340px" alt="tech stack gif" />
+</div>
+
+- 🌍 I'm from **Bangladesh**  
+- 🔭 Currently working on: [C-Craft Furniture Shop](https://c-craft-frontend.vercel.app/)  
+- 🌱 Learning **TypeScript & Redux**  
+- 💬 Ask me about **React, Node.js, or MongoDB**  
+- 🎮 I love **Gaming, Traveling & Exploring new tech**  
+- ⚡ Fun fact: I can debug faster with coffee ☕  
+
+---
+
+## 🛠️ **Languages & Tools**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,firebase,mongodb,mysql,nextjs,git,github,vscode,figma" />
+</div>
+
+---
+
+## 🧠 **My Tech Stack Animation**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="480px" />
 </p>
 
 ---
 
-### <h2><img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif" width="40px" height="40px"> **About Me**</h2>
-
-<div align="right">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="340px"/>
-</div>
-
-I am a Web Developer 🌐 and beginner level Designer 🎨 from Bangladesh.  
-I love exploring new tech stack 💻 and leveraging them to build cool stuff 🛠️.
-
-- 🔭 &nbsp; I’m currently working on a Trusted Online Furniture Shop in Bangladesh [C-Craft](https://c-craft-frontend.vercel.app/)
-- 🌱 &nbsp; I’m currently learning Typescript and Redux  
-- 💬 &nbsp; Ask me about anything tech related — happy to help!  
-- 📚 &nbsp; When I’m free, I enjoy gaming and traveling.
-
----
-
-### <img src="https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif" width="40px" height="40px"> **Connect With Me**
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/shahariyar-rakib-b21682355" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-
-  <a href="https://www.facebook.com/shahariyar.rakib.2024/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-  </a>
-
-  <a href="@Shahariyar50732" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/x.png" width="42" height="42" alt="x logo" />
-  </a>
-
-  <a href="https://discord.gg/gZhVeXGP" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="42" alt="discord logo" />
-  </a>
-
-  <a href="https://wa.me/8801709801263" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="42" alt="whatsapp logo" />
-  </a>
-
-  <a href="https://www.instagram.com/shahariyar_rakib_369/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="42" alt="instagram logo" />
-  </a>
-</div>
-
----
-
-### <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px" height="40px"> Languages and Tools</h2>
+## 📊 **GitHub Stats**
 
 <div align="center">
-
-  <h3>🛠️ Tech Stack</h3>
-
-  <!-- Frontend -->
-  <p>
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png" height="40" />
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png" height="40" />
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png" height="40" />
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png" height="40" />
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png" height="40" />
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png" height="40" />
-  </p>
-
-  <!-- Backend -->
-  <p>
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png" height="40" />
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png" height="40" />
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png" height="40" />
-  </p>
-
-  <!-- Database -->
-  <p>
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  </p>
-
-  <!-- Frameworks -->
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  </p>
-
+  <img width="46%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shahariya-17&theme=radical&border_radius=10" alt="streak stats"/>
+  <img width="46%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Shahariya-17&show_icons=true&theme=radical&border_radius=10&rank_icon=github" alt="readme stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahariya-17&layout=compact&theme=radical&border_radius=10" height="190" alt="languages graph" />
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **GitHub stats ↓**
-
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shahariya-17&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br><br>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Shahariya-17&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahariya-17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<br>
+## 🐍 **Contribution Snake**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahariya-17/Shahariya-17/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahariya-17/Shahariya-17/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Shahariya-17/Shahariya-17/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+## ✨ **Dynamic Quote & Footer Animation**
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=2000&color=FF61F6&center=true&vCenter=true&width=600&lines=Code.+Create.+Inspire.;Thank+You+for+Visiting+💖;Let's+Build+Something+Great+Together!+🚀" alt="animated message" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=120&section=footer"/>
+</p>
