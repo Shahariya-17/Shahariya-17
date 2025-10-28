@@ -58,7 +58,6 @@
 I am a Web Developer 🌐 and beginner level Designer 🎨 from Bangladesh.  
 I love exploring new tech stack 💻 and leveraging them to build cool stuff 🛠️.
 
-- 🔭 &nbsp; I’m currently working on a Trusted Online Furniture Shop in Bangladesh [C-Craft](https://c-craft-frontend.vercel.app/)
 - 🌱 &nbsp; I’m currently learning Typescript and Redux  
 - 💬 &nbsp; Ask me about anything tech related — happy to help!  
 - 📚 &nbsp; When I’m free, I enjoy gaming and traveling.
