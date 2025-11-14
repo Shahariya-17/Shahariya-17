@@ -8,7 +8,7 @@
 
 <!-- Social Badges -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/shahariyar-rakib-b21682355/" target="_blank">
+  <a href="https://www.linkedin.com/in/rakibul-islam17/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 
@@ -70,7 +70,7 @@ I love exploring new tech stack ðŸ’» and leveraging them to build cool stuff ðŸ›
 ### <img src="https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif" width="40px" height="40px"> **Connect With Me**
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/shahariyar-rakib-b21682355" target="_blank">
+  <a href="https://www.linkedin.com/in/rakibul-islam17/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 
