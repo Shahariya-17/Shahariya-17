@@ -45,7 +45,16 @@
 
 ---
 
-### <h2><img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif" width="40px"> About Me</h2> <div align="right"> <img alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="340px" /> </div> I am a Web Developer 🌐 and beginner-level Designer 🎨 from Bangladesh. I love exploring new tech stack 💻 and using them to build amazing things 🛠️. - 🌱 Currently learning **Typescript** & **Redux** - 💬 Open to any tech-related questions - 🎮 Free time activities: **Gaming**, **Traveling**
+### <h2> 
+<img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif" width="40px"> About Me</h2> 
+<div align="right"> <img alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="340px" /> </div>
+I am a Web Developer 🌐 
+and beginner-level Designer 🎨
+from Bangladesh. 
+I love exploring new tech stack 💻 and using them to build amazing things 🛠️.
+- 🌱 Currently learning **Typescript** & **Redux**
+- 💬 Open to any tech-related questions 
+- 🎮 Free time activities: **Gaming**, **Traveling**
 
 ### <h2><img src="https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif" width="40px"> Connect With Me</h2>
 
