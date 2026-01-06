@@ -45,20 +45,37 @@
 
 ---
 
-### <h2><img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif" width="40px"> About Me</h2>
+<h2>
+  <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif" width="40px">
+  About Me
+</h2>
 
-<div align="right">
-  <img alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="340px" />
-</div>
+<table>
+  <tr>
+    <!-- Text -->
+    <td width="60%" valign="top">
+      <p>
+        I am a Web Developer 🌐 and beginner-level Designer 🎨 from Bangladesh.<br>
+        I love exploring new tech stack 💻 and using them to build amazing things 🛠️.
+      </p>
 
-I am a Web Developer 🌐 and beginner-level Designer 🎨 from Bangladesh.  
-I love exploring new tech stack 💻 and using them to build amazing things 🛠️.
+      <ul>
+        <li>🌱 Currently learning <b>Typescript</b> & <b>Redux</b></li>
+        <li>💬 Open to any tech-related questions</li>
+        <li>🎮 Free time activities: <b>Gaming</b>, <b>Traveling</b></li>
+      </ul>
+    </td>
 
-- 🌱 Currently learning **Typescript** & **Redux**
-- 💬 Open to any tech-related questions
-- 🎮 Free time activities: **Gaming**, **Traveling**
-
----
+    <!-- Image -->
+    <td width="40%" align="right">
+      <img
+        src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"
+        width="320"
+        alt="tech stack gif"
+      />
+    </td>
+  </tr>
+</table>
 
 ### <h2><img src="https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif" width="40px"> Connect With Me</h2>
 
