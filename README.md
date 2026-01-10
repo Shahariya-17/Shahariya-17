@@ -42,8 +42,19 @@ I enjoy building modern, responsive web applications and continuously learning n
 
 ## 🛠️ Languages & Tools
 
+<!-- 1st line -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,firebase,mysql,nextjs"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,express" />
+</p>
+
+<!-- 2nd line -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,nextjs,typescript" />
+</p>
+
+<!-- 3rd line -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,mysql,js,react,git,github" />
 </p>
 
 ---
