@@ -2,11 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayesmahmud000&label=Profile%20views&color=0e75b6&style=flat" alt="kayesmahmud000" /> </p>
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/kayes-mah" target="_blank">
+  <a href="https://www.linkedin.com/in/rakibul-islam17/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 
-  <a href="https://www.facebook.com/mah.mud.473648" target="_blank">
+  <a href="https://www.facebook.com/shahariyar.rakib.2024/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
 
@@ -41,7 +41,7 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+everyone+!;I'm+Kayes+Mahmud..;I'm+a+Web+Developer..;Let's+work+together+!&color=ffffff&size=35&center=false&vCenter=true&width=500&font=source+code+pro" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+everyone+!;I'm+Rakibul+Islam..;I'm+a+Web+Developer..;Let's+work+together+!&color=ffffff&size=35&center=false&vCenter=true&width=500&font=source+code+pro" />
   </a>
 </p>
 
