@@ -61,19 +61,18 @@ I enjoy building modern, responsive web applications and continuously learning n
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahariya-17&theme=react&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Shahariya-17&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahariya-17&layout=compact&theme=react&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahariya-17&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahariya-17&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahariya-17&layout=compact&theme=react&hide_border=true" />
+</p>
+
 
 
 <!-- ===================== SNAKE ===================== -->
