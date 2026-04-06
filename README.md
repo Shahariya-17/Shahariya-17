@@ -1,5 +1,7 @@
 <img width="100%" src="/images/icons/banner.jpg" alt="cover" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kayesmahmud000&label=Profile%20views&color=0e75b6&style=flat" alt="kayesmahmud000" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Shahariya-17&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 <div align="center">
 
   <a href="https://www.linkedin.com/in/rakibul-islam17" target="_blank">
@@ -55,7 +57,7 @@
   <br/>
 </div>
 I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , depending on what the project requires , I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️...!
-- 🔭 &nbsp; I’m currently working on Softvence Agency [Softvence - Omega](https://softvence.agency/) a concern of Asia's Largest AI Powerhouse & Ecosystem [Betopia group](https://betopiagroup.com/).
+- 🔭 &nbsp; I’m currently working on Softvence Agency [Softvence - Omega] (https://softvence.agency/) a concern of Asia's Largest AI Powerhouse & Ecosystem [Betopia Group] (https://betopiagroup.com/).
 - 🌱 &nbsp; I’m currently learning Typescript and Redux; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📚 &nbsp; When I am free, I enjoy playing Cricket, Football and Traveling..
