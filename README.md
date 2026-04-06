@@ -57,7 +57,7 @@
   <br/>
 </div>
 I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , depending on what the project requires , I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️...!
-- 🔭 &nbsp; I’m currently working on Softvence Agency [Softvence - Omega] (https://softvence.agency/) a concern of Asia's Largest AI Powerhouse & Ecosystem [Betopia Group] (https://betopiagroup.com/).
+- 🔭 &nbsp; I’m currently working as a Web Developer on Softvence Agency [Softvence - Omega] (https://softvence.agency/), a concern of Asia's Largest AI Powerhouse & Ecosystem [Betopia Group] (https://betopiagroup.com/).
 - 🌱 &nbsp; I’m currently learning Typescript and Redux; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📚 &nbsp; When I am free, I enjoy playing Cricket, Football and Traveling..
