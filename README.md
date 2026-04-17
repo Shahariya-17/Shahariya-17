@@ -66,7 +66,7 @@ I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , dep
 
 ### <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> **Connect With Me**
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/rakibul-islam17" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
