@@ -66,37 +66,36 @@ I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , dep
 
 ### <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> **Connect With Me**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rakibul-islam17" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
+<div style="display:flex; justify-content:center; align-items:center; gap:10px; flex-wrap:wrap;">
 
-  <a href="https://www.facebook.com/shahariyar.rakib.2024" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-  </a>
-
-  <!-- X (Twitter) -->
-<a href="https://x.com" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/x.png" width="40" height="40" alt="x logo" />
+<a href="https://www.linkedin.com/in/rakibul-islam17" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
 </a>
 
-  <a href="https://discord.gg/gZhVeXGP" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
+<a href="https://www.facebook.com/shahariyar.rakib.2024" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" />
+</a>
 
-  <a href="https://wa.me/8801709801263" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
+<a href="https://x.com" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/x.png" width="40" />
+</a>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/shahariyar_rakib_369" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
+<a href="https://discord.gg/gZhVeXGP" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" />
+</a>
 
-  <!-- Threads (PNG version) -->
-  <a href="https://www.threads.net" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/threads.png" width="40" height="40" alt="threads logo" />
-  </a>
+<a href="https://wa.me/8801709801263" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" />
+</a>
+
+<a href="https://www.instagram.com/shahariyar_rakib_369" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
+</a>
+
+<a href="https://www.threads.net" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/threads.png" width="40" />
+</a>
+
 </div>
 
 
