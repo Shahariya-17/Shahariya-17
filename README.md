@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="threads logo" />
   </a>
 
-  <a href="https://discord.gg/gZhVeXGP" target="_blank">
+  <a href="https://discord.gg/gZhVeXGP" target="_blanks">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 
